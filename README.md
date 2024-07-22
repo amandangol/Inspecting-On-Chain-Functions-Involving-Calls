@@ -1,4 +1,3 @@
-Sure, here is the README.md file following the specified format:
 
 # Uniswap V3 SwapRouter Contract
 
